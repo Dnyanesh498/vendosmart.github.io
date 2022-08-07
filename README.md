@@ -5,6 +5,7 @@
  then
  # to Run the project
  ## npm start
- link
+  #hoisted link
+  #[vendosmart add item](https://vendosmart1.netlify.app/)
  
  
