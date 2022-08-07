@@ -100,7 +100,7 @@ function App() {
     <div>
       <div className="App">
         <div>
-          <div className="flex">
+          <div className="container">
             <h2 className="head">Add New Item</h2>
             <li>
             
@@ -128,6 +128,7 @@ function App() {
               <select class="inp">
               <option>--select status--</option>
                 <option>Todo</option>
+                <option>InProgress</option>
                 <option>Completed</option>
               </select>
             </li>
